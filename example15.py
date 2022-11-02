@@ -1,0 +1,10 @@
+thisdict={
+    "brand":"Ford",
+    "model":"Mustang",
+    "year":1964,
+    "david":100111,
+    "raju":20987
+}
+print(thisdict)
+x=thisdict["david"]
+print(x)
